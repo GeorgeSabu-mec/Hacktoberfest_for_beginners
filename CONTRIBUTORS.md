@@ -7,3 +7,6 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
+#### Name: [George Sabu](https://github.com/GeorgeSabu-mec)
+-Place: Kerala,India
+-Bio:Student
